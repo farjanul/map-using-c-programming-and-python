@@ -1,4 +1,4 @@
 # ascii-map
-How to create an ASCII map [YouTube](https://youtu.be/j40OZ2g-dao)
+Bangladesh map using C programming and Python
 
-![Map of Bangladesh](./ascii-map.png)
+![Map of Bangladesh](./output.png)
